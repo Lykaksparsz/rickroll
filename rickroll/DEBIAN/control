@@ -1,0 +1,8 @@
+Package: rickroll
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: None
+Maintainer: Lykakspars <lykakspars@cock.li>
+Description: An Joke CLI
